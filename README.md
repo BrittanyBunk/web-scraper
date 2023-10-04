@@ -9,5 +9,9 @@ There's other ways to scrape sites, but they're potentially subpar:
 - clojure - https://clojure.org/
   * issue - slows down websites
     - python - doesn't do this
+      * (?) reason - reads data and moves it elsewhere
+        - closure will work with the databases of the website's server itself
+- tampermonkey
+  * has same issue - as clojure
 - url extractor - https://www.prepostseo.com/link-extractor
 - git bash - https://gitforwindows.org/
