@@ -4,3 +4,10 @@ website scraper (i.e. - extractor of info) using python. Note - I didn't create 
 The process involves parsing a website before scraping to concentrate the data.
 
 The example website used is the greenlight bookstore's website - https://www.greenlightbookstore.com .
+
+There's other ways to scrape sites, but they're potentially subpar:
+- clojure - https://clojure.org/
+  * issue - slows down websites
+    - python - doesn't do this
+- url extractor - https://www.prepostseo.com/link-extractor
+- git bash - https://gitforwindows.org/
