@@ -5,7 +5,7 @@ The process involves parsing a website before scraping to concentrate the data.
 
 The example website used is the greenlight bookstore's website - https://www.greenlightbookstore.com .
 
-There's other ways to scrape sites, but they're potentially subpar:
+**There's other ways to scrape sites, but they're potentially subpar:**
 - clojure - https://clojure.org/
   * issue - slows down websites
     - python - doesn't do this
