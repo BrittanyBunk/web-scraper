@@ -15,3 +15,16 @@ The example website used is the greenlight bookstore's website - https://www.gre
   * has same issue - as clojure
 - url extractor - https://www.prepostseo.com/link-extractor
 - git bash - https://gitforwindows.org/
+
+Subpar IDE's for python (except jupyter - see below):
+- spyder
+  * reason - >>clunky
+    - reason - >100mb download file
+- Wing - https://wingware.com/
+  * issue - $
+- jupyter
+  * is a notebook > IDE coder
+- [online-python.com](https://www.online-python.com/)
+  * issue - lacks connectivity - -> call programs, libraries, etc.
+    - that would normally be on the comp
+      * ex - BeautifulSoup4
