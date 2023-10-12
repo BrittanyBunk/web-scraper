@@ -1,5 +1,0 @@
-loguru
-beautifulsoup4
-lxml 
-requests
-tqdm
