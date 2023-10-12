@@ -16,7 +16,7 @@ The example website used is the greenlight bookstore's website - https://www.gre
 - url extractor - https://www.prepostseo.com/link-extractor
 - git bash - https://gitforwindows.org/
 
-Subpar IDE's for python:
+**Subpar IDE's for python:**
 - spyder
   * reason - >>clunky
     - reason - >100mb download file
@@ -27,7 +27,7 @@ Subpar IDE's for python:
     - that would normally be on the comp
       * ex - BeautifulSoup4
  
-supplement - -> IDE:
+**supplement - -> IDE:**
 - jupyter
   * is a notebook
 - colab - https://colab.research.google.com/
