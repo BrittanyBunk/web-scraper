@@ -16,15 +16,19 @@ The example website used is the greenlight bookstore's website - https://www.gre
 - url extractor - https://www.prepostseo.com/link-extractor
 - git bash - https://gitforwindows.org/
 
-Subpar IDE's for python (except jupyter - see below):
+Subpar IDE's for python:
 - spyder
   * reason - >>clunky
     - reason - >100mb download file
 - Wing - https://wingware.com/
   * issue - $
-- jupyter
-  * is a notebook > IDE coder
 - [online-python.com](https://www.online-python.com/)
   * issue - lacks connectivity - -> call programs, libraries, etc.
     - that would normally be on the comp
       * ex - BeautifulSoup4
+ 
+supplement - -> IDE:
+- jupyter
+  * is a notebook
+- colab - https://colab.research.google.com/
+  * updater - public
