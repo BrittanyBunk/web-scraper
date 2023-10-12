@@ -1,0 +1,14 @@
+software
+- python - 3.9
+- IDE - Sublime Text
+
+python
+- beautifulsoup4
+
+- loguru
+
+- tqdm
+
+- requests
+
+- lxml
