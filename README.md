@@ -1,5 +1,5 @@
 # web-scraper
-website scraper (i.e. - extractor of info) using python. Note - I contributed to the code, but whoever created most of this wants to be anonymous.
+website scraper (i.e. - extractor of info) using python. Note - I contributed to the code, but whoever created most of this wants to be anonymous. Another scraper in another repository provided help to me by Prad Basu (connected with me through Beyond Animal) - https://github.com/BrittanyBunk/Beyond-Animal - using clojure. Unfortunately they never provided instructions on performing this, but I feel python's better (see reasons why below).
 
 The process involves parsing a website before scraping to concentrate the data.
 
