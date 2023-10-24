@@ -15,6 +15,11 @@ The example website used is the greenlight bookstore's website - https://www.gre
   * has same issue - as clojure
 - url extractor - https://www.prepostseo.com/link-extractor
 - git bash - https://gitforwindows.org/
+- geckodriver + selenium python
+  * issue - limited
+    - needs - firefox
+  * https://towardsdatascience.com/data-science-skills-web-scraping-javascript-using-python-97a29738353f
+  * https://medium.com/ml-book/web-scraping-using-selenium-python-3be7b8762747
 
 **Subpar IDE's for python:**
 - spyder
